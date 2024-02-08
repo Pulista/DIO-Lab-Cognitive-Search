@@ -30,12 +30,12 @@ Use o portal do Azure AI Search  para consultar seus dados indexados.
 
 ## Insights e Possibilidades
 
-E-commerce: Implementar busca avançada e sistemas de recomendação personalizados.
+E-commerce
 
-Gestão de Conteúdo: Permitir busca e descoberta eficientes de conteúdo em grandes repositórios.
+Gestão de Conteúdo
 
-Suporte ao Cliente: Desenvolver chatbots inteligentes para responder às consultas dos clientes de forma mais eficaz.
+Suporte ao Cliente
 
-Busca Corporativa: Oferecer uma experiência de busca unificada em diferentes fontes de dados dentro da organização.
+Busca Corporativa
 
-Análise de Dados: Analisar e visualizar grandes conjuntos de dados de forma mais inteligente e eficiente.
+Análise de Dados
